@@ -26,18 +26,3 @@ The assignment consists of two tasks:
 - `output_karatsuba.txt`: Sample output file for the Karatsuba multiplication program.
 - `output_mst.txt`: Sample output file for the k-means clustering program.
 
-## Compilation and Execution
-
-### Karatsuba Multiplication
-
-To compile and run the Karatsuba multiplication program:
-
-```bash
-gcc -o karatsuba karatsuba.c
-./karatsuba input_karatsuba.txt output_karatsuba.txt
-
-
-To compile and run the k-means clustering program:
-```bash
-gcc -o mst_kmeans mst_kmeans.c
-./mst_kmeans input_mst.txt output_mst.txt
