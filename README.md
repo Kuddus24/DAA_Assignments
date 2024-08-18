@@ -19,10 +19,10 @@ The assignment consists of two tasks:
 ## File Structure
 
 - *karatsuba.c*: The implementation of the Karatsuba multiplication algorithm.
-- mst_kmeans.c: The implementation of the k-means clustering using MST.
-- Makefile: Instructions to compile the programs.
-- input_karatsuba.txt: Sample input file for the Karatsuba multiplication program.
-- input_mst.txt: Sample input file for the k-means clustering program.
-- output_karatsuba.txt: Sample output file for the Karatsuba multiplication program.
-- output_mst.txt: Sample output file for the k-means clustering program.
+- *mst_kmeans.c*: The implementation of the k-means clustering using MST.
+- *Makefile*: Instructions to compile the programs.
+- *input_karatsuba.txt*: Sample input file for the Karatsuba multiplication program.
+- *input_mst.txt*: Sample input file for the k-means clustering program.
+- *output_karatsuba.txt*: Sample output file for the Karatsuba multiplication program.
+- *output_mst.txt*: Sample output file for the k-means clustering program.
 
